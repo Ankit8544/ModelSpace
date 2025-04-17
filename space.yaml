@@ -1,0 +1,5 @@
+sdk: gradio  # If you use Gradio UI
+title: "Text-to-Video"
+emoji: "🎥"
+hardware: "gpu"
+app_file: app.py  # Flask app entry point
