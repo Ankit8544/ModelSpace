@@ -1,0 +1,14 @@
+torch==1.10.0+cu113
+transformers==4.11.3
+taming-transformers
+tqdm
+opencv-python
+einops
+ftfy
+regex
+pillow
+numpy
+scipy
+matplotlib
+imageio
+imageio-ffmpeg
